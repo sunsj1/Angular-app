@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "TATA Steel",
+    "price": 1468,
+    "type": "BSE"
+  },
+  {
+    "id": 2,
+    "name": "Bharat Dyanamics",
+    "price": 479,
+    "type": "BSE"
+  },
+  {
+    "id": 3,
+    "name": "Picca Sugar",
+    "price": 33,
+    "type": "BSE"
+  },
+  {
+    "id": 4,
+    "name": "HCL",
+    "price": 4229,
+    "type": "House"
+  },
+  {
+    "id": 5,
+    "name": "Incredible Industry",
+    "price": 30,
+    "type": "House"
+  },
+  {
+    "id": 6,
+    "name": "Zomato",
+    "price": 138,
+    "type": "BSE"
+  }
+]
